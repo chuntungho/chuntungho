@@ -1,4 +1,3 @@
 /public
-/themes
-.hugo_build.lock
 /resources/_gen
+.hugo_build.lock
