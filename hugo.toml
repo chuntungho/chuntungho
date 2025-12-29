@@ -1,0 +1,25 @@
+baseURL = 'https://www.chuntung.com/'
+languageCode = 'en-us'
+title = 'Chuntung'
+theme = 'yassi'
+
+buildFuture = true
+
+[params]
+  CoverImage = "/images/avatar.jpeg"
+  CoverImageWidth = 150
+
+  # Theme Colors
+  # Accent color used throughout the theme for interactive elements
+  # Controls: site title underline, avatar color, timeline bullets, post summaries,
+  # hover states, category/tag badges, word clouds, and project cards
+  #accentColor = "#b5221c"  # Red (customized for example)
+  #accentColorDark = "#b5221c"  # Red for dark mode
+
+  # Project display mode: true for carousel, false for grid
+  useProjectCarousel = true
+
+  # Social Media Links
+  [params.social]
+    github = "https://github.com/chuntungho"
+    twitter = "https://twitter.com/chuntungho"
