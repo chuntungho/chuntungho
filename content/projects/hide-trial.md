@@ -7,5 +7,5 @@ weight = 11
 tags = ["idea"]
 categories = ["Plugin"]
 project_url = "https://githuh.com/chuntungho/hide-trial"
-main_image = "/images/plugin.svg"
+main_image = "/images/hide.svg"
 +++
