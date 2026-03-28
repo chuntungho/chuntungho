@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Chuntung
 
-### A passionate backend developer
+### A passionate software orchestrator
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chuntungho&label=Profile%20views&color=0e75b6&style=flat" alt="chuntungho" /> </p>
 
-- 🔭 I’m currently working on **OA development with Flowable engine**
+- 🔭 I’m currently working on **OA platform with Flowable engine** and **Datacenter management platform**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m learning to use AI to orchestrate software development.
 
 - 👨‍💻 All of my projects are available at [www.chuntung.com](https://www.chuntung.com)
  
