@@ -1,11 +1,11 @@
 +++
-title = "Online Toolkit"
+title = "Toolkit"
 date = 2026-03-20
-summary = "Online developer utilies."
+summary = "Online productivity utilies."
 featured = true
 weight = 1
 tags = ["nodejs", "Tool"]
 categories = ["Tool"]
 project_url = "https://kit.chuntung.com"
-main_image = "/images/toolkit.svg"
+main_image = "https://kit.chuntung.com/logo.svg"
 +++
