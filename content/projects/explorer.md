@@ -1,11 +1,11 @@
 +++
 title = "Explorer"
 date = 2024-01-20
-summary = "Explore the world-wide-web."
+summary = "Explore the world wide web."
 featured = true
 weight = 2
 tags = ["Java", "Tool"]
 categories = ["Tool"]
-project_url = "https://x.chuntung.com"
-main_image = "/images/explorer.svg"
+project_url = "https://explorer.qzz.io"
+main_image = "https://explorer.qzz.io/logo.svg"
 +++
