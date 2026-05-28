@@ -24,4 +24,5 @@ main_image = "https://picsum.photos/1200/630"
   # Social Media Links
   [params.social]
     github = "https://github.com/chuntungho"
+    twitter = "https://x.com/chuntungho"
     linkedin = "https://linkedin.com/in/chuntungho"
